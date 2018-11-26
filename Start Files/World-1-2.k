@@ -7,3 +7,21 @@
 
 import "turns";
 
+function dropBeeper() {
+	turnRight();
+	move();
+	putBeeper();
+	turnAround();
+	move();
+	turnRight();
+}
+
+function FillHoles() {
+	move();
+	dropBeeper();
+	move();
+	move();
+	move();
+	dropBeeper();
+	move();
+}
