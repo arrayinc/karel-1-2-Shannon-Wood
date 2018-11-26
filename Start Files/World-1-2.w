@@ -7,6 +7,8 @@ Wall: (4, 2) SOUTH
 Wall: (5, 1) WEST
 Wall: (6, 1) WEST
 Wall: (6, 2) SOUTH
+Color: (2, 1) WHITE
+Beeper: (2, 1) 1
 Karel: (1, 2) EAST
 BeeperBag: 2
 Speed: 0.00
